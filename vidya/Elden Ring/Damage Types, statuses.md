@@ -1,0 +1,78 @@
+# Physical
+- Standard
+	- Strong
+		- Most
+	- Weak
+		- Scales
+		- Miners
+- Strike
+	- Strong
+		- Armored
+		- Rocky/brittle
+		- Undead
+	- Weak
+		- Scales
+- Slash
+	- Strong
+		- Fleshy, Unarmored, Light Armor
+	- Weak
+		- Heavy Armor, Rock, Natural armor
+- Pierce
+	- Counterattacks
+	- Strong
+		- Scales
+		- Light/medium armor
+	- Weak
+		- Undead
+		- Frost
+		- Rock
+# Elemental
+- Magic
+	- Strong
+		- Armored
+		- miners
+	- Weak
+		- Created by sorcery
+		- Sorcerers
+- Fire
+	- Wet reduces
+	- Strong
+		- Flora
+		- Fauna with no armor
+		- Fleshy
+		- Rot afflicted
+		- Unarmored
+	- Weak
+		- Draconic
+		- Fire-creatures
+		- Heavy Armor
+- Lightning
+	- Wet boosts
+	- Strong
+		- Knights
+	- Weak
+		- Ancient Dragons
+		- Rock
+		- Undead
+- Holy
+	- Strong
+		- Albinaurics
+		- Undead
+		- Unholy
+	- Weak
+		- Shardbearers
+		- God-type
+		- Holy
+# Status Effects
+- Poison 
+- Scarlet Rot
+- Blood Loss
+- Frostbite
+- Sleep
+- Madness
+- Death Blight
+
+# Weaknesses
+- Unarmored = slashing, fire
+- light, medium = piercing
+- armored = strike, magic, lightning

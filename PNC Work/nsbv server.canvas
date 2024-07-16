@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"83e88aeb2a66d1be","type":"text","text":"# `10.181.10.200`, `rmgroup.nsbvteknik.dk`","x":-400,"y":100,"width":660,"height":160},
+		{"id":"22390c81cee5f076","type":"text","text":"### Reverse Proxy\n___\n- Nginx\n- Port 443\n- SSL","x":-360,"y":180,"width":220,"height":260},
+		{"id":"b2aa110ad5176e8a","type":"text","text":"### OAuth2 Middleware\n___\n- Express\n- Port 3000\n- Only listens to local machine requests","x":-80,"y":180,"width":300,"height":260}
+	],
+	"edges":[
+		{"id":"ff83f1c7e46f34a0","fromNode":"22390c81cee5f076","fromSide":"right","toNode":"b2aa110ad5176e8a","toSide":"left"},
+		{"id":"f8d1c8d4fddb398e","fromNode":"22390c81cee5f076","fromSide":"right","toNode":"b2aa110ad5176e8a","toSide":"left"},
+		{"id":"9e8cedb6e62d71b6","fromNode":"22390c81cee5f076","fromSide":"right","toNode":"b2aa110ad5176e8a","toSide":"left"},
+		{"id":"2967c23e6a8efc96","fromNode":"22390c81cee5f076","fromSide":"right","toNode":"b2aa110ad5176e8a","toSide":"left"},
+		{"id":"9dd94a728e26f0a7","fromNode":"22390c81cee5f076","fromSide":"right","toNode":"b2aa110ad5176e8a","toSide":"left"}
+	]
+}

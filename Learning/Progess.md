@@ -1,0 +1,11 @@
+# Things to look into
+- Arch
+- Neovim (editor in term)
+- wezterm (terminal emulator)
+- zed (editor)
+- terminal multiplexer
+- ZIG?
+- GO?
+- RUUUSST?
+- kitty?
+- linear algebra

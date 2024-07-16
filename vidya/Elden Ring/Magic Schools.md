@@ -1,0 +1,20 @@
+- Glintstone
+- Crystallian
+- Cold
+- Night
+- Claymen (bubbles)
+- Gravity
+- Magma
+- Thorn
+- Prince of Death
+- Flame
+- Two Fingers
+- Assassin
+- Erdtree
+- Golden Order
+- Bestial
+- Dragon
+- Godslayer
+- Blood oath
+- Rot
+- Frenzied Flame

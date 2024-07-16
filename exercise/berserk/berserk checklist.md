@@ -1,0 +1,4 @@
+- am I eating enough EVERY day? count calories / protein
+- am I hydrating before, during and after training
+- am I prioritizing sleep
+- am I doing what I can to minimize stress
