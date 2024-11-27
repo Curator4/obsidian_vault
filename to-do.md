@@ -19,3 +19,9 @@ Now why do i feel upset, i guess because i see myself in that story, the paralle
 then when i ran i came up with the idea that, sure, if she gets a boyfriend or sleeps with guy or something then i can let go completely. but untill then it better to just, take the high road and be better myself, make her want you, not be desperate for her.
 if she rly is lesbian i guess we can just leave it at being friends, altho that is not what i want, and i will push for more
 but at the same time she keeps giving mixed signals
+
+- mom website
+- fm stang
+- dl
+- garbage
+- 

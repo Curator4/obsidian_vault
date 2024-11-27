@@ -1,0 +1,3 @@
+- multiple different kinds of tokenization, this uses character to interger one, others use word to integer, most common industry standard is sub-word tokenization
+- difference between say 65 unique tokens versus 60k
+- 

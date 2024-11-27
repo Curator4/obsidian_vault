@@ -1,0 +1,2 @@
+
+Garsten said his best students were choosing between the protofascism of Nietzsche and a neomedieval, quasi-theocratic version of Catholicism opposed to Enlightenment liberalism. - https://www.theatlantic.com/magazine/archive/2023/09/bronze-age-pervert-costin-alamariu/674762/

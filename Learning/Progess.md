@@ -9,3 +9,7 @@
 - RUUUSST?
 - kitty?
 - linear algebra
+- generative ai
+- maybe some ml, k, pca, reinforcement learning
+- definitely pca..
+- https://github.com/practical-tutorials/project-based-learning
